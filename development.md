@@ -15,6 +15,10 @@ Step2:
 ChromaDB initialized successfully!
 Number of documents: 0
 
+Step3: 
+collection.count() still reports your items, good
+
+Step 4:
 
 
 

@@ -16,9 +16,9 @@ movies = [
     "A lonely robot explores an abandoned planet."
 ]
 
-collection.add(
-    documents=movies,
-    ids=[str(i) for i in range(len(movies))]
-)
+# collection.add(
+#    documents=movies,
+#    ids=[str(i) for i in range(len(movies))]
+#)
 
 print("Number of documents:", collection.count())
