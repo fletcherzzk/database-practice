@@ -336,6 +336,10 @@ On Windows, `py` can be used instead of `python` if necessary.
 
 
 
-Citation: The last 3 sections are written by AI
-          I did chekck it and at a path to .csv file on my google-drive
+# Citation:
+    1. The last 3 sections and How a user adds new items, and how a user searches section are written by AI 
+    2. I did chekck it and at a path to .csv file on my google-drive
+    3. I used chatgpt 6-sol model for this problem.
+
+
 
