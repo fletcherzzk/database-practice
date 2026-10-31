@@ -44,6 +44,16 @@ This does not really match with Dark Knight, because vigilante happens to be a k
 
 
 Step 6:
+Test case: Project Hail Mary
+Release year: 2026
+Genre: Sci-Fi, Adventure
+Movie overview: A science teacher awakens alone aboard a spacecraft with no memory of his mission. He must investigate a mysterious threat to Earth's sun and cooperate with an unexpected extraterrestrial companion to prevent a global catastrophe.
+
+Query: A researcher stranded far from home must work with an alien friend to stop a cosmic disaster.
+
+Works!!!!
+
+
 
 
 
