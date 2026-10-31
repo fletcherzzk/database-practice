@@ -1,0 +1,12 @@
+Lib/
+Scripts/
+Include/
+share/
+*.dist-info/
+*.egg-info/
+chroma_store/
+__pycache__/
+*.pyc
+*.csv
+.venv/
+venv/
