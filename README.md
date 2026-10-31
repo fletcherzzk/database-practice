@@ -9,7 +9,7 @@ A movie recommender, I chose it because I have got a really good dataset and it 
 2. what counts as one item : An item is an overview of a movie.
 3. how you broke it up if you did: No need to break up, natural units.
 4. roughly how many items you loaded: 1000 items
-5. what metadata (if any) you attach to each one list including overview, rating, release year
+5. what metadata (if any) you attach to each one list including title, rating, release year
 
 # How a user adds new items, and how a user searches
 
