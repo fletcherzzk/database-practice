@@ -54,6 +54,22 @@ Query: A researcher stranded far from home must work with an alien friend to sto
 Works!!!!
 
 
+Step 7:
+Allowing these
+=== Ranking Options ===
+1. Semantic Similarity (default)
+2. IMDb Rating (highest first)
+3. Release Year (newest first)
+4. Keyword Overlap (most shared words first)
+
+Also, added a score for showing how relevant the results are.
+
+Completed
+
+
+Step 8: Already done
+
+
 
 
 
